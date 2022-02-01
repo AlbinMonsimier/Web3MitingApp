@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7EF1ec9970eFBF4E72Bb4263114E293cc266201d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x7EF1ec9970eFBF4E72Bb4263114E293cc266201d",
+  "NETWORK": {
+    "NAME": "Ethereum TestNet Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Were wolf",
+  "SYMBOL": "WW",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.050,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Were-Wolf",
+  "SHOW_BACKGROUND": false
+}
